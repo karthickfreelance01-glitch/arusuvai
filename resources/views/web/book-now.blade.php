@@ -178,6 +178,7 @@ textarea{ resize:none; height:100px; }
         <div class="label-title">Payment mode <span class="req">*</span></div>
         <div class="radio-group">
             <label><input type="radio" name="payment_mode" value="Bank" required> Bank</label>
+            <label><input type="radio" name="payment_mode" value="Card"> Card</label>
             <label><input type="radio" name="payment_mode" value="Cash"> Cash</label>
         </div>
         {{-- BANK DETAILS --}}
@@ -194,10 +195,10 @@ textarea{ resize:none; height:100px; }
                 color:#0d3b66;
                 font-weight:600;
             ">
-                <div><strong>Account Number:</strong> 0333589112001</div>
-                <div><strong>Account Holder:</strong> ARUSUVAI RESTAURANTS MANAGEMENT CO. L.L.C</div>
+                <div><strong>Account Number:</strong> 0553332946001</div>
+                <div><strong>Account Holder:</strong> ARUSUVAI STAR RESTAURANT L.L.C</div>
                 <div><strong>Bank Name:</strong> RAK BANK</div>
-                <div><strong>IBAN:</strong> AE690400000333589112001</div>
+                <div><strong>IBAN:</strong> AE770400000553332946001</div>
             </div>
         </div>
     </div>
